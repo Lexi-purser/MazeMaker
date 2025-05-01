@@ -42,5 +42,5 @@ It renders a maze directly in the browser and allows interactive resizing using 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/MazeMaker.git
-   '''
+   ```
    My prefered way is to open the file in VSCode and use the "Live Server" extension by Ritwick Dey
